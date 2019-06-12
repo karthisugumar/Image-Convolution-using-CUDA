@@ -1,0 +1,5 @@
+The number of rows is 1024
+The number of columns is 1024
+Total Elapsed Time for the Kernel(GPU): 0.823712 ms
+Total Elapsed Time(including data transfer): 3.87853 ms
+

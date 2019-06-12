@@ -1,0 +1,84 @@
+For iteration 1
+Total GPU time: 0.141312 ms
+Total time: 1.55141 ms
+
+For iteration 2
+Total GPU time: 0.142176 ms
+Total time: 1.54845 ms
+
+For iteration 3
+Total GPU time: 0.141088 ms
+Total time: 1.56156 ms
+
+For iteration 4
+Total GPU time: 0.14144 ms
+Total time: 1.54517 ms
+
+For iteration 5
+Total GPU time: 0.14256 ms
+Total time: 1.54726 ms
+
+For iteration 6
+Total GPU time: 0.144 ms
+Total time: 1.54636 ms
+
+For iteration 7
+Total GPU time: 0.141824 ms
+Total time: 1.56232 ms
+
+For iteration 8
+Total GPU time: 0.141024 ms
+Total time: 1.55586 ms
+
+For iteration 9
+Total GPU time: 0.141824 ms
+Total time: 1.55791 ms
+
+For iteration 10
+Total GPU time: 0.141184 ms
+Total time: 1.55733 ms
+
+For iteration 11
+Total GPU time: 0.142656 ms
+Total time: 1.54522 ms
+
+For iteration 12
+Total GPU time: 0.14096 ms
+Total time: 1.56147 ms
+
+For iteration 13
+Total GPU time: 0.141856 ms
+Total time: 1.5662 ms
+
+For iteration 14
+Total GPU time: 0.141824 ms
+Total time: 1.55087 ms
+
+For iteration 15
+Total GPU time: 0.141664 ms
+Total time: 1.53903 ms
+
+For iteration 16
+Total GPU time: 0.14352 ms
+Total time: 1.55015 ms
+
+For iteration 17
+Total GPU time: 0.140896 ms
+Total time: 1.61163 ms
+
+For iteration 18
+Total GPU time: 0.142048 ms
+Total time: 1.60736 ms
+
+For iteration 19
+Total GPU time: 0.141728 ms
+Total time: 1.57775 ms
+
+For iteration 20
+Total GPU time: 0.140704 ms
+Total time: 1.54788 ms
+
+
+
+Average GPU Execution Time(20 runs)= .141814
+Average TOTAL Execution Time(20 runs)= 1.559559
